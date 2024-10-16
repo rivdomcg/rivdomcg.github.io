@@ -182,7 +182,7 @@ footer a:hover {
 /* Boton Flotante */
 .floating-back-to-top {
     position: fixed;
-    bottom: 20px;
+    bottom: 60px;
     right: 20px;
     background-color: #0B2447;
     color: white;
